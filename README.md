@@ -1,59 +1,28 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# History Trivia Questions
 
-# Project Name
+![Screenshot_3](https://user-images.githubusercontent.com/57297709/146773439-62f48390-769e-42b5-8f09-4f0236dcb036.jpg)
 
-> One paragraph statement about the project.
 
-![screenshot](./app_screenshot.png)
+
 
 Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
+- JavaScript
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://wonderful-bell-62f4b5.netlify.app/)
 
+## Author
 
-## Getting Started
+👤 **Author**
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@LuisSalas94](https://github.com/LuisSalas94)
+- LinkedIn: [Fernando Salas](https://www.linkedin.com/in/luisfernandosalasgave/)
 
 ## 🤝 Contributing
 
@@ -67,10 +36,10 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- John Smilga Udemy Course
+
 
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
+
